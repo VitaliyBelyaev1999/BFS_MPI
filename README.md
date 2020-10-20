@@ -1,1 +1,1 @@
-A way to implement breadth-first traversal in C ++ using MPI
+A way to implement breadth-first traversal in C++ using MPI
